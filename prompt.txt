@@ -1,0 +1,20 @@
+帮我用python写一个自动监控网页数据是否更新的项目框架。
+
+项目主程序main.py，同级目录下还有一个tasks文件夹，task文件夹内有FINANCE, TRANSPORT等多个文件夹，分别代表要监控的网站的所属类别；再下一级文件夹中，如FINANCE中，有finance_data1、finance_data2等多个文件夹，分别代表用于监控不同网站的数据的爬虫文件。如finance_data1文件夹内有finance_data1.py为主要的运行脚本，有finance_data1.json用于储存爬虫运行后取到的数据，json格式为{"date":"2023-10-23","title":"XXXXfinance_data_title_xxxxx","data":[{"date":"201909","price":101089.56}]}，其中date中的为爬虫采集到结果的当天时间，title为网页对应数据的标题，data为对应的数据（格式不定）。
+
+main.py的同级目录下还有一个schedule文件，里面用json格式记录了每个任务的调度时间与频率
+
+
+main.py主要用来根据schedule文件调度各爬虫脚本的运行与输出，当有新输出时使用钉钉机器人@对应的人员。
+finance_data1.py、finance_data2.py等爬虫脚本用于实际访问网站请求并返回date、title、data数据到对应文件夹的json数据文件中。
+
+main.py运行时，若finance_data1.py产生了结果，它会比对finance_data1.json中是否有对应的date、title，若有则无事发生，继续执行下一个爬虫，若有新的date、title被采集到，则将采集到的date、title、data追加填写到finance_data1.json中，并触发钉钉通知
+
+main.py同级文件中应该还有一个clear.py，用于清空所有脚本对应的json数据，即重置所有爬虫状态
+
+当我要添加爬虫时，比如我要在FINANCE板块下新增一个网站的监控，我只需要编写对应的finance_data3文件，并将文件放进FINANCE文件夹下，再在schedule文件中填写上对应的调度时间和频率，运行main.py时就会自动运行这个新增的爬虫了
+
+
+请根据以上内容，编写main.py、schedule、finance_data1.py、clear.py等主要脚本的内容给我。注意，这是一个放在服务器上长期不间断运行的项目，你应该要避免某个爬虫失效或某步骤失效后导致后续爬虫一起停止的情况。另外爬虫的数量可能会日期增加，你对爬虫的调用应该要考虑到性能效率。另外对于schedule中的时间数据格式，应该有灵活的一套时间格式，比如"time":[year,month,day,hour,min,sec]，每个时间参数有格式——{start:end:step}
+
+比如"time":[0,0,0,0:24:2,10:30:10,0]表示每隔2小时，在第10-30分时，每隔10分钟运行一次,则运行时刻为00:10:00、00:20:00、02:10:00、02:20:00等

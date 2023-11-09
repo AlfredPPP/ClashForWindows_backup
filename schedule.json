@@ -1,0 +1,57 @@
+{
+    "FINANCE": {
+        "NEW-Q2-金融-银保监会-银行业总资产总负债": {
+            "time": {
+				"year" : "*",
+				"month" : "*",
+				"day" : "*",
+				"week" : "*",
+				"day_of_week" : "*",
+				"hour" : "*",
+				"minute" : "1",
+				"second" : "0"
+				
+			}
+        },
+		"NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品": {
+            "time": {
+				"year" : "*",
+				"month" : "*",
+				"day" : "*",
+				"week" : "*",
+				"day_of_week" : "*",
+				"hour" : "*",
+				"minute" : "2",
+				"second" : "0"
+				
+			}
+        },
+		"NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品": {
+            "time": {
+				"year" : "*",
+				"month" : "*",
+				"day" : "*",
+				"week" : "*",
+				"day_of_week" : "*",
+				"hour" : "*",
+				"minute" : "3",
+				"second" : "0"
+				
+			}
+        },
+		"NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况": {
+            "time": {
+				"year" : "*",
+				"month" : "*",
+				"day" : "*",
+				"week" : "*",
+				"day_of_week" : "*",
+				"hour" : "*",
+				"minute" : "4",
+				"second" : "0"
+				
+			}
+        }
+        }
+    
+}
