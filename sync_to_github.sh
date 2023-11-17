@@ -16,7 +16,7 @@ read -r commit_message
 git commit -m "$commit_message" || { echo "Failed to commit changes"; exit 1; }
 
 # 推送到远程仓库
-git push "$REPO_URL" || { echo "Failed to push to repository"; exit 1; }
+git push "$REPO_URL" main --force || { echo "Failed to push to repository"; exit 1; }
 
 # 完成
 echo "Changes pushed to GitHub successfully."
