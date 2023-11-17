@@ -22,9 +22,9 @@ def set_log_config():
 def execute_task(category, task):
     # 配置钉钉机器人
     # 测试url
-    # webhook = 'https://oapi.dingtalk.com/robot/send?access_token=c16a87777ac1df00fef2bcdfab61c2b6591ddedd32b6ad51cf7353adaae0b6b9'
+    webhook = 'https://oapi.dingtalk.com/robot/send?access_token=c16a87777ac1df00fef2bcdfab61c2b6591ddedd32b6ad51cf7353adaae0b6b9'
     #正式url
-    webhook = 'https://oapi.dingtalk.com/robot/send?access_token=00d29582f86b51c11aa1e946762ab3815a3104ea659fa80ebbb5f5be85bb93f5'
+    # webhook = 'https://oapi.dingtalk.com/robot/send?access_token=00d29582f86b51c11aa1e946762ab3815a3104ea659fa80ebbb5f5be85bb93f5'
     ding_bot = DingtalkChatbot(webhook)
 
     # 执行爬虫任务

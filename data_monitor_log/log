@@ -1,0 +1,550 @@
+2023-11-16 10:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 11:01:00 CST)" (scheduled at 2023-11-16 10:01:00+08:00)
+2023-11-16 10:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 10:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 10:01:00 - INFO - 网站数据未更新
+2023-11-16 10:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 11:01:00 CST)" executed successfully
+2023-11-16 10:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 11:02:00 CST)" (scheduled at 2023-11-16 10:02:00+08:00)
+2023-11-16 10:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 10:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 10:02:00 - INFO - 网站数据未更新
+2023-11-16 10:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 11:02:00 CST)" executed successfully
+2023-11-16 10:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 11:03:00 CST)" (scheduled at 2023-11-16 10:03:00+08:00)
+2023-11-16 10:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 10:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 10:03:00 - INFO - 网站数据未更新
+2023-11-16 10:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 11:03:00 CST)" executed successfully
+2023-11-16 10:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 11:04:00 CST)" (scheduled at 2023-11-16 10:04:00+08:00)
+2023-11-16 10:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 10:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 10:04:00 - INFO - 网站数据未更新
+2023-11-16 10:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 11:04:00 CST)" executed successfully
+2023-11-16 11:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 12:01:00 CST)" (scheduled at 2023-11-16 11:01:00+08:00)
+2023-11-16 11:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 11:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 11:01:00 - INFO - 网站数据未更新
+2023-11-16 11:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 12:01:00 CST)" executed successfully
+2023-11-16 11:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 12:02:00 CST)" (scheduled at 2023-11-16 11:02:00+08:00)
+2023-11-16 11:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 11:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 11:02:00 - INFO - 网站数据未更新
+2023-11-16 11:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 12:02:00 CST)" executed successfully
+2023-11-16 11:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 12:03:00 CST)" (scheduled at 2023-11-16 11:03:00+08:00)
+2023-11-16 11:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 11:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 11:03:00 - INFO - 网站数据未更新
+2023-11-16 11:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 12:03:00 CST)" executed successfully
+2023-11-16 11:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 12:04:00 CST)" (scheduled at 2023-11-16 11:04:00+08:00)
+2023-11-16 11:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 11:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 11:04:00 - INFO - 网站数据未更新
+2023-11-16 11:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 12:04:00 CST)" executed successfully
+2023-11-16 12:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 13:01:00 CST)" (scheduled at 2023-11-16 12:01:00+08:00)
+2023-11-16 12:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 12:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 12:01:00 - INFO - 网站数据未更新
+2023-11-16 12:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 13:01:00 CST)" executed successfully
+2023-11-16 12:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 13:02:00 CST)" (scheduled at 2023-11-16 12:02:00+08:00)
+2023-11-16 12:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 12:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 12:02:00 - INFO - 网站数据未更新
+2023-11-16 12:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 13:02:00 CST)" executed successfully
+2023-11-16 12:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 13:03:00 CST)" (scheduled at 2023-11-16 12:03:00+08:00)
+2023-11-16 12:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 12:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 12:03:00 - INFO - 网站数据未更新
+2023-11-16 12:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 13:03:00 CST)" executed successfully
+2023-11-16 12:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 13:04:00 CST)" (scheduled at 2023-11-16 12:04:00+08:00)
+2023-11-16 12:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 12:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 12:04:00 - INFO - 网站数据未更新
+2023-11-16 12:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 13:04:00 CST)" executed successfully
+2023-11-16 13:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 14:01:00 CST)" (scheduled at 2023-11-16 13:01:00+08:00)
+2023-11-16 13:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 13:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 13:01:00 - INFO - 网站数据未更新
+2023-11-16 13:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 14:01:00 CST)" executed successfully
+2023-11-16 13:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 14:02:00 CST)" (scheduled at 2023-11-16 13:02:00+08:00)
+2023-11-16 13:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 13:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 13:02:00 - INFO - 网站数据未更新
+2023-11-16 13:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 14:02:00 CST)" executed successfully
+2023-11-16 13:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 14:03:00 CST)" (scheduled at 2023-11-16 13:03:00+08:00)
+2023-11-16 13:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 13:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 13:03:00 - INFO - 网站数据未更新
+2023-11-16 13:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 14:03:00 CST)" executed successfully
+2023-11-16 13:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 14:04:00 CST)" (scheduled at 2023-11-16 13:04:00+08:00)
+2023-11-16 13:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 13:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 13:04:00 - INFO - 网站数据未更新
+2023-11-16 13:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 14:04:00 CST)" executed successfully
+2023-11-16 14:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 15:01:00 CST)" (scheduled at 2023-11-16 14:01:00+08:00)
+2023-11-16 14:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 14:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 14:01:00 - INFO - 网站数据未更新
+2023-11-16 14:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 15:01:00 CST)" executed successfully
+2023-11-16 14:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 15:02:00 CST)" (scheduled at 2023-11-16 14:02:00+08:00)
+2023-11-16 14:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 14:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 14:02:00 - INFO - 网站数据未更新
+2023-11-16 14:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 15:02:00 CST)" executed successfully
+2023-11-16 14:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 15:03:00 CST)" (scheduled at 2023-11-16 14:03:00+08:00)
+2023-11-16 14:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 14:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 14:03:00 - INFO - 网站数据未更新
+2023-11-16 14:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 15:03:00 CST)" executed successfully
+2023-11-16 14:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 15:04:00 CST)" (scheduled at 2023-11-16 14:04:00+08:00)
+2023-11-16 14:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 14:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 14:04:00 - INFO - 网站数据未更新
+2023-11-16 14:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 15:04:00 CST)" executed successfully
+2023-11-16 15:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 16:01:00 CST)" (scheduled at 2023-11-16 15:01:00+08:00)
+2023-11-16 15:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 15:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 15:01:00 - INFO - 网站数据未更新
+2023-11-16 15:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 16:01:00 CST)" executed successfully
+2023-11-16 15:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 16:02:00 CST)" (scheduled at 2023-11-16 15:02:00+08:00)
+2023-11-16 15:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 15:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 15:02:00 - INFO - 网站数据未更新
+2023-11-16 15:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 16:02:00 CST)" executed successfully
+2023-11-16 15:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 16:03:00 CST)" (scheduled at 2023-11-16 15:03:00+08:00)
+2023-11-16 15:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 15:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 15:03:00 - INFO - 网站数据未更新
+2023-11-16 15:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 16:03:00 CST)" executed successfully
+2023-11-16 15:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 16:04:00 CST)" (scheduled at 2023-11-16 15:04:00+08:00)
+2023-11-16 15:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 15:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 15:04:00 - INFO - 网站数据未更新
+2023-11-16 15:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 16:04:00 CST)" executed successfully
+2023-11-16 16:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 17:01:00 CST)" (scheduled at 2023-11-16 16:01:00+08:00)
+2023-11-16 16:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 16:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 16:01:00 - INFO - 网站数据未更新
+2023-11-16 16:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 17:01:00 CST)" executed successfully
+2023-11-16 16:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 17:02:00 CST)" (scheduled at 2023-11-16 16:02:00+08:00)
+2023-11-16 16:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 16:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 16:02:00 - INFO - 网站数据未更新
+2023-11-16 16:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 17:02:00 CST)" executed successfully
+2023-11-16 16:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 17:03:00 CST)" (scheduled at 2023-11-16 16:03:00+08:00)
+2023-11-16 16:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 16:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 16:03:00 - INFO - 网站数据未更新
+2023-11-16 16:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 17:03:00 CST)" executed successfully
+2023-11-16 16:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 17:04:00 CST)" (scheduled at 2023-11-16 16:04:00+08:00)
+2023-11-16 16:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 16:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 16:04:00 - INFO - 网站数据未更新
+2023-11-16 16:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 17:04:00 CST)" executed successfully
+2023-11-16 17:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 18:01:00 CST)" (scheduled at 2023-11-16 17:01:00+08:00)
+2023-11-16 17:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 17:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 17:01:00 - INFO - 网站数据未更新
+2023-11-16 17:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 18:01:00 CST)" executed successfully
+2023-11-16 17:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 18:02:00 CST)" (scheduled at 2023-11-16 17:02:00+08:00)
+2023-11-16 17:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 17:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 17:02:00 - INFO - 网站数据未更新
+2023-11-16 17:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 18:02:00 CST)" executed successfully
+2023-11-16 17:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 18:03:00 CST)" (scheduled at 2023-11-16 17:03:00+08:00)
+2023-11-16 17:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 17:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 17:03:00 - INFO - 网站数据未更新
+2023-11-16 17:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 18:03:00 CST)" executed successfully
+2023-11-16 17:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 18:04:00 CST)" (scheduled at 2023-11-16 17:04:00+08:00)
+2023-11-16 17:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 17:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 17:04:00 - INFO - 网站数据未更新
+2023-11-16 17:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 18:04:00 CST)" executed successfully
+2023-11-16 18:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 19:01:00 CST)" (scheduled at 2023-11-16 18:01:00+08:00)
+2023-11-16 18:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 18:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 18:01:00 - INFO - 网站数据未更新
+2023-11-16 18:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 19:01:00 CST)" executed successfully
+2023-11-16 18:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 19:02:00 CST)" (scheduled at 2023-11-16 18:02:00+08:00)
+2023-11-16 18:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 18:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 18:02:00 - INFO - 网站数据未更新
+2023-11-16 18:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 19:02:00 CST)" executed successfully
+2023-11-16 18:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 19:03:00 CST)" (scheduled at 2023-11-16 18:03:00+08:00)
+2023-11-16 18:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 18:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 18:03:00 - INFO - 网站数据未更新
+2023-11-16 18:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 19:03:00 CST)" executed successfully
+2023-11-16 18:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 19:04:00 CST)" (scheduled at 2023-11-16 18:04:00+08:00)
+2023-11-16 18:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 18:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 18:04:00 - INFO - 网站数据未更新
+2023-11-16 18:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 19:04:00 CST)" executed successfully
+2023-11-16 19:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 20:01:00 CST)" (scheduled at 2023-11-16 19:01:00+08:00)
+2023-11-16 19:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 19:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 19:01:00 - INFO - 网站数据未更新
+2023-11-16 19:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 20:01:00 CST)" executed successfully
+2023-11-16 19:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 20:02:00 CST)" (scheduled at 2023-11-16 19:02:00+08:00)
+2023-11-16 19:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 19:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 19:02:00 - INFO - 网站数据未更新
+2023-11-16 19:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 20:02:00 CST)" executed successfully
+2023-11-16 19:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 20:03:00 CST)" (scheduled at 2023-11-16 19:03:00+08:00)
+2023-11-16 19:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 19:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 19:03:00 - INFO - 网站数据未更新
+2023-11-16 19:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 20:03:00 CST)" executed successfully
+2023-11-16 19:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 20:04:00 CST)" (scheduled at 2023-11-16 19:04:00+08:00)
+2023-11-16 19:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 19:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 19:04:01 - INFO - 网站数据未更新
+2023-11-16 19:04:01 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 20:04:00 CST)" executed successfully
+2023-11-16 20:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 21:01:00 CST)" (scheduled at 2023-11-16 20:01:00+08:00)
+2023-11-16 20:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 20:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 20:01:00 - INFO - 网站数据未更新
+2023-11-16 20:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 21:01:00 CST)" executed successfully
+2023-11-16 20:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 21:02:00 CST)" (scheduled at 2023-11-16 20:02:00+08:00)
+2023-11-16 20:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 20:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 20:02:00 - INFO - 网站数据未更新
+2023-11-16 20:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 21:02:00 CST)" executed successfully
+2023-11-16 20:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 21:03:00 CST)" (scheduled at 2023-11-16 20:03:00+08:00)
+2023-11-16 20:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 20:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 20:03:00 - INFO - 网站数据未更新
+2023-11-16 20:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 21:03:00 CST)" executed successfully
+2023-11-16 20:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 21:04:00 CST)" (scheduled at 2023-11-16 20:04:00+08:00)
+2023-11-16 20:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 20:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 20:04:05 - INFO - 网站数据未更新
+2023-11-16 20:04:05 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 21:04:00 CST)" executed successfully
+2023-11-16 21:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 22:01:00 CST)" (scheduled at 2023-11-16 21:01:00+08:00)
+2023-11-16 21:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 21:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 21:01:00 - INFO - 网站数据未更新
+2023-11-16 21:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 22:01:00 CST)" executed successfully
+2023-11-16 21:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 22:02:00 CST)" (scheduled at 2023-11-16 21:02:00+08:00)
+2023-11-16 21:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 21:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 21:02:00 - INFO - 网站数据未更新
+2023-11-16 21:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 22:02:00 CST)" executed successfully
+2023-11-16 21:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 22:03:00 CST)" (scheduled at 2023-11-16 21:03:00+08:00)
+2023-11-16 21:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 21:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 21:03:00 - INFO - 网站数据未更新
+2023-11-16 21:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 22:03:00 CST)" executed successfully
+2023-11-16 21:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 22:04:00 CST)" (scheduled at 2023-11-16 21:04:00+08:00)
+2023-11-16 21:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 21:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 21:04:00 - INFO - 网站数据未更新
+2023-11-16 21:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 22:04:00 CST)" executed successfully
+2023-11-16 22:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 23:01:00 CST)" (scheduled at 2023-11-16 22:01:00+08:00)
+2023-11-16 22:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 22:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 22:01:00 - INFO - 网站数据未更新
+2023-11-16 22:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-16 23:01:00 CST)" executed successfully
+2023-11-16 22:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 23:02:00 CST)" (scheduled at 2023-11-16 22:02:00+08:00)
+2023-11-16 22:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 22:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 22:02:00 - INFO - 网站数据未更新
+2023-11-16 22:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-16 23:02:00 CST)" executed successfully
+2023-11-16 22:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 23:03:00 CST)" (scheduled at 2023-11-16 22:03:00+08:00)
+2023-11-16 22:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 22:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 22:03:00 - INFO - 网站数据未更新
+2023-11-16 22:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-16 23:03:00 CST)" executed successfully
+2023-11-16 22:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 23:04:00 CST)" (scheduled at 2023-11-16 22:04:00+08:00)
+2023-11-16 22:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 22:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 22:04:00 - INFO - 网站数据未更新
+2023-11-16 22:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-16 23:04:00 CST)" executed successfully
+2023-11-16 23:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 00:01:00 CST)" (scheduled at 2023-11-16 23:01:00+08:00)
+2023-11-16 23:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-16 23:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-16 23:01:00 - INFO - 网站数据未更新
+2023-11-16 23:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 00:01:00 CST)" executed successfully
+2023-11-16 23:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 00:02:00 CST)" (scheduled at 2023-11-16 23:02:00+08:00)
+2023-11-16 23:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 23:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-16 23:02:00 - INFO - 网站数据未更新
+2023-11-16 23:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 00:02:00 CST)" executed successfully
+2023-11-16 23:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 00:03:00 CST)" (scheduled at 2023-11-16 23:03:00+08:00)
+2023-11-16 23:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 23:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-16 23:03:00 - INFO - 网站数据未更新
+2023-11-16 23:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 00:03:00 CST)" executed successfully
+2023-11-16 23:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 00:04:00 CST)" (scheduled at 2023-11-16 23:04:00+08:00)
+2023-11-16 23:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 23:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-16 23:04:00 - INFO - 网站数据未更新
+2023-11-16 23:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 00:04:00 CST)" executed successfully
+2023-11-17 00:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 01:01:00 CST)" (scheduled at 2023-11-17 00:01:00+08:00)
+2023-11-17 00:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 00:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 00:01:00 - INFO - 网站数据未更新
+2023-11-17 00:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 01:01:00 CST)" executed successfully
+2023-11-17 00:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 01:02:00 CST)" (scheduled at 2023-11-17 00:02:00+08:00)
+2023-11-17 00:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 00:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 00:02:00 - INFO - 网站数据未更新
+2023-11-17 00:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 01:02:00 CST)" executed successfully
+2023-11-17 00:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 01:03:00 CST)" (scheduled at 2023-11-17 00:03:00+08:00)
+2023-11-17 00:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 00:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 00:03:00 - INFO - 网站数据未更新
+2023-11-17 00:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 01:03:00 CST)" executed successfully
+2023-11-17 00:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 01:04:00 CST)" (scheduled at 2023-11-17 00:04:00+08:00)
+2023-11-17 00:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 00:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 00:04:00 - INFO - 网站数据未更新
+2023-11-17 00:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 01:04:00 CST)" executed successfully
+2023-11-17 01:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 02:01:00 CST)" (scheduled at 2023-11-17 01:01:00+08:00)
+2023-11-17 01:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 01:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 01:01:00 - INFO - 网站数据未更新
+2023-11-17 01:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 02:01:00 CST)" executed successfully
+2023-11-17 01:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 02:02:00 CST)" (scheduled at 2023-11-17 01:02:00+08:00)
+2023-11-17 01:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 01:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 01:02:01 - INFO - 网站数据未更新
+2023-11-17 01:02:01 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 02:02:00 CST)" executed successfully
+2023-11-17 01:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 02:03:00 CST)" (scheduled at 2023-11-17 01:03:00+08:00)
+2023-11-17 01:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 01:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 01:03:00 - INFO - 网站数据未更新
+2023-11-17 01:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 02:03:00 CST)" executed successfully
+2023-11-17 01:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 02:04:00 CST)" (scheduled at 2023-11-17 01:04:00+08:00)
+2023-11-17 01:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 01:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 01:04:00 - INFO - 网站数据未更新
+2023-11-17 01:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 02:04:00 CST)" executed successfully
+2023-11-17 02:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 03:01:00 CST)" (scheduled at 2023-11-17 02:01:00+08:00)
+2023-11-17 02:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 02:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 02:01:00 - INFO - 网站数据未更新
+2023-11-17 02:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 03:01:00 CST)" executed successfully
+2023-11-17 02:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 03:02:00 CST)" (scheduled at 2023-11-17 02:02:00+08:00)
+2023-11-17 02:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 02:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 02:02:00 - INFO - 网站数据未更新
+2023-11-17 02:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 03:02:00 CST)" executed successfully
+2023-11-17 02:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 03:03:00 CST)" (scheduled at 2023-11-17 02:03:00+08:00)
+2023-11-17 02:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 02:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 02:03:00 - INFO - 网站数据未更新
+2023-11-17 02:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 03:03:00 CST)" executed successfully
+2023-11-17 02:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 03:04:00 CST)" (scheduled at 2023-11-17 02:04:00+08:00)
+2023-11-17 02:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 02:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 02:04:06 - INFO - 网站数据未更新
+2023-11-17 02:04:06 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 03:04:00 CST)" executed successfully
+2023-11-17 03:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 04:01:00 CST)" (scheduled at 2023-11-17 03:01:00+08:00)
+2023-11-17 03:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 03:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 03:01:00 - INFO - 网站数据未更新
+2023-11-17 03:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 04:01:00 CST)" executed successfully
+2023-11-17 03:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 04:02:00 CST)" (scheduled at 2023-11-17 03:02:00+08:00)
+2023-11-17 03:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 03:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 03:02:00 - INFO - 网站数据未更新
+2023-11-17 03:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 04:02:00 CST)" executed successfully
+2023-11-17 03:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 04:03:00 CST)" (scheduled at 2023-11-17 03:03:00+08:00)
+2023-11-17 03:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 03:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 03:03:00 - INFO - 网站数据未更新
+2023-11-17 03:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 04:03:00 CST)" executed successfully
+2023-11-17 03:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 04:04:00 CST)" (scheduled at 2023-11-17 03:04:00+08:00)
+2023-11-17 03:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 03:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 03:04:01 - INFO - 网站数据未更新
+2023-11-17 03:04:01 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 04:04:00 CST)" executed successfully
+2023-11-17 04:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 05:01:00 CST)" (scheduled at 2023-11-17 04:01:00+08:00)
+2023-11-17 04:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 04:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 04:01:00 - INFO - 网站数据未更新
+2023-11-17 04:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 05:01:00 CST)" executed successfully
+2023-11-17 04:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 05:02:00 CST)" (scheduled at 2023-11-17 04:02:00+08:00)
+2023-11-17 04:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 04:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 04:02:00 - INFO - 网站数据未更新
+2023-11-17 04:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 05:02:00 CST)" executed successfully
+2023-11-17 04:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 05:03:00 CST)" (scheduled at 2023-11-17 04:03:00+08:00)
+2023-11-17 04:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 04:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 04:03:00 - INFO - 网站数据未更新
+2023-11-17 04:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 05:03:00 CST)" executed successfully
+2023-11-17 04:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 05:04:00 CST)" (scheduled at 2023-11-17 04:04:00+08:00)
+2023-11-17 04:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 04:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 04:04:00 - INFO - 网站数据未更新
+2023-11-17 04:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 05:04:00 CST)" executed successfully
+2023-11-17 05:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 06:01:00 CST)" (scheduled at 2023-11-17 05:01:00+08:00)
+2023-11-17 05:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 05:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 05:01:00 - INFO - 网站数据未更新
+2023-11-17 05:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 06:01:00 CST)" executed successfully
+2023-11-17 05:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 06:02:00 CST)" (scheduled at 2023-11-17 05:02:00+08:00)
+2023-11-17 05:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 05:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 05:02:00 - INFO - 网站数据未更新
+2023-11-17 05:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 06:02:00 CST)" executed successfully
+2023-11-17 05:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 06:03:00 CST)" (scheduled at 2023-11-17 05:03:00+08:00)
+2023-11-17 05:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 05:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 05:03:00 - INFO - 网站数据未更新
+2023-11-17 05:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 06:03:00 CST)" executed successfully
+2023-11-17 05:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 06:04:00 CST)" (scheduled at 2023-11-17 05:04:00+08:00)
+2023-11-17 05:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 05:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 05:04:00 - INFO - 网站数据未更新
+2023-11-17 05:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 06:04:00 CST)" executed successfully
+2023-11-17 06:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 07:01:00 CST)" (scheduled at 2023-11-17 06:01:00+08:00)
+2023-11-17 06:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 06:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 06:01:00 - INFO - 网站数据未更新
+2023-11-17 06:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 07:01:00 CST)" executed successfully
+2023-11-17 06:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 07:02:00 CST)" (scheduled at 2023-11-17 06:02:00+08:00)
+2023-11-17 06:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 06:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 06:02:00 - INFO - 网站数据未更新
+2023-11-17 06:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 07:02:00 CST)" executed successfully
+2023-11-17 06:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 07:03:00 CST)" (scheduled at 2023-11-17 06:03:00+08:00)
+2023-11-17 06:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 06:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 06:03:00 - INFO - 网站数据未更新
+2023-11-17 06:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 07:03:00 CST)" executed successfully
+2023-11-17 06:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 07:04:00 CST)" (scheduled at 2023-11-17 06:04:00+08:00)
+2023-11-17 06:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 06:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 06:04:00 - INFO - 网站数据未更新
+2023-11-17 06:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 07:04:00 CST)" executed successfully
+2023-11-17 07:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 08:01:00 CST)" (scheduled at 2023-11-17 07:01:00+08:00)
+2023-11-17 07:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 07:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 07:01:00 - INFO - 网站数据未更新
+2023-11-17 07:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 08:01:00 CST)" executed successfully
+2023-11-17 07:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 08:02:00 CST)" (scheduled at 2023-11-17 07:02:00+08:00)
+2023-11-17 07:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 07:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 07:02:00 - INFO - 网站数据未更新
+2023-11-17 07:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 08:02:00 CST)" executed successfully
+2023-11-17 07:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 08:03:00 CST)" (scheduled at 2023-11-17 07:03:00+08:00)
+2023-11-17 07:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 07:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 07:03:00 - INFO - 网站数据未更新
+2023-11-17 07:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 08:03:00 CST)" executed successfully
+2023-11-17 07:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 08:04:00 CST)" (scheduled at 2023-11-17 07:04:00+08:00)
+2023-11-17 07:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 07:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 07:04:00 - INFO - 网站数据未更新
+2023-11-17 07:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 08:04:00 CST)" executed successfully
+2023-11-17 08:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 09:01:00 CST)" (scheduled at 2023-11-17 08:01:00+08:00)
+2023-11-17 08:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 08:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 08:01:00 - INFO - 网站数据未更新
+2023-11-17 08:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 09:01:00 CST)" executed successfully
+2023-11-17 08:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 09:02:00 CST)" (scheduled at 2023-11-17 08:02:00+08:00)
+2023-11-17 08:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 08:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 08:02:00 - INFO - 网站数据未更新
+2023-11-17 08:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 09:02:00 CST)" executed successfully
+2023-11-17 08:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 09:03:00 CST)" (scheduled at 2023-11-17 08:03:00+08:00)
+2023-11-17 08:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 08:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 08:03:00 - INFO - 网站数据未更新
+2023-11-17 08:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 09:03:00 CST)" executed successfully
+2023-11-17 08:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 09:04:00 CST)" (scheduled at 2023-11-17 08:04:00+08:00)
+2023-11-17 08:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 08:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 08:04:12 - ERROR - Error running task FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况: HTTPSConnectionPool(host='www.amac.org.cn', port=443): Read timed out.
+2023-11-17 08:04:12 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 09:04:00 CST)" executed successfully
+2023-11-17 09:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 10:01:00 CST)" (scheduled at 2023-11-17 09:01:00+08:00)
+2023-11-17 09:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 09:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 09:01:00 - INFO - 网站数据未更新
+2023-11-17 09:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 10:01:00 CST)" executed successfully
+2023-11-17 09:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 10:02:00 CST)" (scheduled at 2023-11-17 09:02:00+08:00)
+2023-11-17 09:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 09:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 09:02:00 - INFO - 网站数据未更新
+2023-11-17 09:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 10:02:00 CST)" executed successfully
+2023-11-17 09:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 10:03:00 CST)" (scheduled at 2023-11-17 09:03:00+08:00)
+2023-11-17 09:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 09:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 09:03:00 - INFO - 网站数据未更新
+2023-11-17 09:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 10:03:00 CST)" executed successfully
+2023-11-17 09:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 10:04:00 CST)" (scheduled at 2023-11-17 09:04:00+08:00)
+2023-11-17 09:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 09:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 09:04:00 - INFO - 网站数据未更新
+2023-11-17 09:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 10:04:00 CST)" executed successfully
+2023-11-17 10:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 11:01:00 CST)" (scheduled at 2023-11-17 10:01:00+08:00)
+2023-11-17 10:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 10:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 10:01:00 - INFO - 网站数据未更新
+2023-11-17 10:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 11:01:00 CST)" executed successfully
+2023-11-17 10:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 11:02:00 CST)" (scheduled at 2023-11-17 10:02:00+08:00)
+2023-11-17 10:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 10:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 10:02:00 - INFO - 网站数据未更新
+2023-11-17 10:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 11:02:00 CST)" executed successfully
+2023-11-17 10:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 11:03:00 CST)" (scheduled at 2023-11-17 10:03:00+08:00)
+2023-11-17 10:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 10:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 10:03:00 - INFO - 网站数据未更新
+2023-11-17 10:03:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 11:03:00 CST)" executed successfully
+2023-11-17 10:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 11:04:00 CST)" (scheduled at 2023-11-17 10:04:00+08:00)
+2023-11-17 10:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 10:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 10:04:00 - INFO - 网站数据未更新
+2023-11-17 10:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 11:04:00 CST)" executed successfully
+2023-11-17 11:01:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 12:01:00 CST)" (scheduled at 2023-11-17 11:01:00+08:00)
+2023-11-17 11:01:00 - INFO - 开始执行：tasks.FINANCE.NEW-Q2-金融-银保监会-银行业总资产总负债.NEW-Q2-金融-银保监会-银行业总资产总负债
+2023-11-17 11:01:00 - INFO - 正在抓取：NEW-Q2-金融-银保监会-银行业:总资产总负债
+2023-11-17 11:01:00 - INFO - 网站数据未更新
+2023-11-17 11:01:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='1', second='0'], next run at: 2023-11-17 12:01:00 CST)" executed successfully
+2023-11-17 11:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 12:02:00 CST)" (scheduled at 2023-11-17 11:02:00+08:00)
+2023-11-17 11:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 11:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 11:02:00 - INFO - 网站数据未更新
+2023-11-17 11:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 12:02:00 CST)" executed successfully
+2023-11-17 11:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 12:03:00 CST)" (scheduled at 2023-11-17 11:03:00+08:00)
+2023-11-17 11:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 11:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 11:03:01 - INFO - 网站数据未更新
+2023-11-17 11:03:01 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 12:03:00 CST)" executed successfully
+2023-11-17 11:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 12:04:00 CST)" (scheduled at 2023-11-17 11:04:00+08:00)
+2023-11-17 11:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 11:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 11:04:05 - ERROR - Error running task FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况: HTTPSConnectionPool(host='www.amac.org.cn', port=443): Max retries exceeded with url: /researchstatistics/report/zczjhhybg/ (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+2023-11-17 11:04:05 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 12:04:00 CST)" executed successfully
+2023-11-17 11:15:27 - INFO - process shutdown!
+2023-11-17 11:15:27 - INFO - Scheduler has been shut down
+2023-11-17 14:01:36 - INFO - process start!
+2023-11-17 14:01:36 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-17 14:01:36 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-17 14:01:36 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-17 14:01:36 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-17 14:01:36 - INFO - Scheduler has started!
+2023-11-17 14:01:36 - INFO - Added job "execute_task" to job store "default"
+2023-11-17 14:01:36 - INFO - Added job "execute_task" to job store "default"
+2023-11-17 14:01:36 - INFO - Added job "execute_task" to job store "default"
+2023-11-17 14:01:36 - INFO - Added job "execute_task" to job store "default"
+2023-11-17 14:01:36 - INFO - Scheduler started
+2023-11-17 14:02:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 15:02:00 CST)" (scheduled at 2023-11-17 14:02:00+08:00)
+2023-11-17 14:02:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品.NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 14:02:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募基金-管理人登记及私募基金产品
+2023-11-17 14:02:00 - INFO - 网站数据未更新
+2023-11-17 14:02:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='2', second='0'], next run at: 2023-11-17 15:02:00 CST)" executed successfully
+2023-11-17 14:03:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 15:03:00 CST)" (scheduled at 2023-11-17 14:03:00+08:00)
+2023-11-17 14:03:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品.NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 14:03:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：私募资管-证券期货经营机构私募资管产品
+2023-11-17 14:03:01 - INFO - 网站数据未更新
+2023-11-17 14:03:01 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='3', second='0'], next run at: 2023-11-17 15:03:00 CST)" executed successfully
+2023-11-17 14:04:00 - INFO - Running job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 15:04:00 CST)" (scheduled at 2023-11-17 14:04:00+08:00)
+2023-11-17 14:04:00 - INFO - 开始执行：tasks.FINANCE.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况.NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 14:04:00 - INFO - 正在抓取：NEW-M4-金融-资产管理-基金业：资产证券化-企业资产证券化备案运行情况
+2023-11-17 14:04:00 - INFO - 网站数据未更新
+2023-11-17 14:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 15:04:00 CST)" executed successfully
+2023-11-17 14:37:50 - INFO - process shutdown!
+2023-11-17 14:37:50 - INFO - Scheduler has been shut down
