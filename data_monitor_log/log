@@ -548,3 +548,16 @@
 2023-11-17 14:04:00 - INFO - Job "execute_task (trigger: cron[year='*', month='*', day='*', hour='*', minute='4', second='0'], next run at: 2023-11-17 15:04:00 CST)" executed successfully
 2023-11-17 14:37:50 - INFO - process shutdown!
 2023-11-17 14:37:50 - INFO - Scheduler has been shut down
+2023-11-18 12:24:18 - INFO - process start!
+2023-11-18 12:24:18 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-18 12:24:18 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-18 12:24:18 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-18 12:24:18 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-11-18 12:24:18 - INFO - Scheduler has started!
+2023-11-18 12:24:18 - INFO - Added job "execute_task" to job store "default"
+2023-11-18 12:24:18 - INFO - Added job "execute_task" to job store "default"
+2023-11-18 12:24:18 - INFO - Added job "execute_task" to job store "default"
+2023-11-18 12:24:18 - INFO - Added job "execute_task" to job store "default"
+2023-11-18 12:24:18 - INFO - Scheduler started
+2023-11-18 12:31:30 - INFO - process shutdown!
+2023-11-18 12:31:30 - INFO - Scheduler has been shut down
