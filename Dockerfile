@@ -1,3 +1,6 @@
+ENV http_proxy "http://127.0.0.1:7890"
+ENV https_proxy "http://127.0.0.1:7890"
+
 # 使用官方 Python 基础镜像
 FROM python:3.8
 
